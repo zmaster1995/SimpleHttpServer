@@ -1,0 +1,8 @@
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe.config
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.exe
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\bin\Debug\data\readme.txt
+C:\Users\stefa\source\repos\SimpleHttpServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojAssemblyReference.cache
